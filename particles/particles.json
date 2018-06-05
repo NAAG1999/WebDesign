@@ -39,6 +39,10 @@
             "opacity": 0.4,
             "width": 2
         },
+        "onclick": {
+        "enable": true,
+        "mode": "repulse"
+      },
         "retina_detect": true
     }
 }
